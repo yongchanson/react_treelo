@@ -4,7 +4,7 @@ import { RecoilRoot } from "recoil";
 import { ThemeProvider } from "styled-components";
 import App from "./App";
 import { darkTheme } from "./theme";
-import { createRoot } from "react-dom/client";
+// import { createRoot } from "react-dom/client";
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
